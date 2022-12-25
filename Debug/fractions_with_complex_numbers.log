@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Ehab\C++\fractions_with_complex_numbers\main.cpp(34,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Ehab\C++\fractions_with_complex_numbers\main.cpp(36,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Ehab\C++\fractions_with_complex_numbers\main.cpp(90,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Ehab\C++\fractions_with_complex_numbers\main.cpp(101,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Ehab\C++\fractions_with_complex_numbers\main.cpp(118,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  fractions_with_complex_numbers.vcxproj -> C:\Ehab\C++\fractions_with_complex_numbers\Debug\fractions_with_complex_numbers.exe
